@@ -84,7 +84,7 @@ https://github.com/YashaSriAluvala/To-Do/assets/117937166/78884337-0106-497a-80e
 
 ![2 (1)](https://github.com/YashaSriAluvala/To-Do/assets/117937166/8c33dd69-a0fb-4786-8298-836de22dfa80)
 
-## Spinner to categorize the tasks(when user selects a particular category only that category elements are viewed)
+## Spinner to categorize the tasks(when user selects a particular category only that category tasks are viewed)
 
 
 ![3 (1)](https://github.com/YashaSriAluvala/To-Do/assets/117937166/6452ad5c-dde5-4fa3-839e-e42d90168101)
