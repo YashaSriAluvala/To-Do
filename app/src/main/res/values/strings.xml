@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">app</string>
+
+
+    <string-array name="sort_options">
+        <item>All</item>
+        <item>School</item>
+        <item>Home</item>
+        <item>Work</item>
+        <item>Friends</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="category">
+        <item>Select category</item>
+        <item>School</item>
+        <item>Home</item>
+        <item>Work</item>
+        <item>Friends</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="priority">
+        <item>Select priority</item>
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+    <string-array name="status">
+        <item>Select status</item>
+        <item>New</item>
+        <item>In Progress</item>
+        <item>Completed</item>
+    </string-array>
+
+    <string name="sort_prompt">Sort Options</string>
+
+
+</resources>
