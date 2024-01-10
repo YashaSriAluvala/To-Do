@@ -115,6 +115,6 @@ https://github.com/YashaSriAluvala/To-Do/assets/117937166/78884337-0106-497a-80e
 
 ## Edit task page to edit or delete the task
 
-![10 (1)](https://github.com/YashaSriAluvala/To-Do/assets/117937166/f7b67dac-b62c-484b-b3cc-39e4e274096a)
+![WhatsApp Image 2024-01-10 at 2 00 01 PM (1)](https://github.com/YashaSriAluvala/To-Do/assets/117937166/ad8fce86-6fdc-4dd0-b325-a9bcae5a774a)
 
 
