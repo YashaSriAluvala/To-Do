@@ -103,7 +103,7 @@ https://github.com/YashaSriAluvala/To-Do/assets/117937166/78884337-0106-497a-80e
 
 ## Datepicker to set the deadline
 
-![7](https://github.com/YashaSriAluvala/To-Do/assets/117937166/fc95e99b-6131-4180-8109-cc53e6692ac8)
+![7 (1)](https://github.com/YashaSriAluvala/To-Do/assets/117937166/a90a8972-1d09-4f4e-b34f-2225425d6010)
 
 ## Spinner to select the category
 
