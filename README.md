@@ -5,7 +5,7 @@
 
 The To-Do List Android App is a simple task management application that allows users to create, edit, and delete tasks. Users can set priorities, deadlines, and categories for their tasks, helping them stay organized and manage their time efficiently.
 
-##Setup and Run (Android Studio)
+##Setup and Run:
 
 Follow these instructions to set up and run the To-Do List Android App using Android Studio.
 
