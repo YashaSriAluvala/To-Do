@@ -46,6 +46,19 @@ Android device or emulator.
 1.Connect your Android device or start an emulator.
 
 
+
+![1](https://github.com/YashaSriAluvala/To-Do/assets/117937166/d56d8ce9-3c80-4483-b1a4-57a03584a7a5)
+![2](https://github.com/YashaSriAluvala/To-Do/assets/117937166/6becb20c-dbdb-4d32-8f5d-2ee3a685fc55)
+![3](https://github.com/YashaSriAluvala/To-Do/assets/117937166/68bc9bcc-443b-40c3-967f-5648eec28e59)
+![4](https://github.com/YashaSriAluvala/To-Do/assets/117937166/c5fbf96c-03f7-4219-aa03-ea11ac840512)
+![5](https://github.com/YashaSriAluvala/To-Do/assets/117937166/01d4d54f-c7e1-41a8-be9c-fc09c90c320b)
+![6](https://github.com/YashaSriAluvala/To-Do/assets/117937166/c1e02c7b-44af-4a15-8629-866cc0705b04)
+![7](https://github.com/YashaSriAluvala/To-Do/assets/117937166/fc95e99b-6131-4180-8109-cc53e6692ac8)
+![8](https://github.com/YashaSriAluvala/To-Do/assets/117937166/aeae4b80-5a72-4917-b9ac-2ca4031f623c)
+![9](https://github.com/YashaSriAluvala/To-Do/assets/117937166/3f731eae-c724-4f37-a39e-8c546de1f415)
+![10](https://github.com/YashaSriAluvala/To-Do/assets/117937166/469d58c5-68d4-4656-8c6c-235e21761deb)
+
+
 2.Click on the "Run" button in Android Studio to build and install the app.
 
 
