@@ -95,7 +95,7 @@ https://github.com/YashaSriAluvala/To-Do/assets/117937166/78884337-0106-497a-80e
 
 ## Spinner to set the Priority
 
-![5](https://github.com/YashaSriAluvala/To-Do/assets/117937166/01d4d54f-c7e1-41a8-be9c-fc09c90c320b)
+![5 (1)](https://github.com/YashaSriAluvala/To-Do/assets/117937166/02702696-2efd-45b0-8dda-cea8d7809ae4)
 
 ## Spinner to set the status
 
