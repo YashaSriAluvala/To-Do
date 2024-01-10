@@ -111,7 +111,7 @@ https://github.com/YashaSriAluvala/To-Do/assets/117937166/78884337-0106-497a-80e
 
 ## The tasks saved will be viewed on the tasks page
 
-![10 (1) (1)](https://github.com/YashaSriAluvala/To-Do/assets/117937166/267d94cc-0b1c-4518-b165-acd558322f8b)
+![9 (1)](https://github.com/YashaSriAluvala/To-Do/assets/117937166/adf6d168-1747-4b67-bb2b-1f231d49eaad)
 
 ## Edit task page to edit or delete the task
 
