@@ -1,5 +1,6 @@
 package com.example.app;
 
+import android.app.DatePickerDialog;
 import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
@@ -18,6 +19,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
+import java.util.Calendar;
 import java.util.Date;
 import java.util.Locale;
 import java.util.Objects;
@@ -62,8 +64,27 @@ public class edittask extends AppCompatActivity {
         if (taskId != -1) {
             loadTaskDetails(taskId);
         }
+
+        // Set up date picker dialog
+        dateEditText.setOnClickListener(v -> showDatePickerDialog());
     }
 
+    private void showDatePickerDialog() {
+        final Calendar calendar = Calendar.getInstance();
+        int year = calendar.get(Calendar.YEAR);
+        int month = calendar.get(Calendar.MONTH);
+        int day = calendar.get(Calendar.DAY_OF_MONTH);
+
+        DatePickerDialog datePickerDialog = new DatePickerDialog(
+                this,
+                (view, yearSelected, monthOfYear, dayOfMonth) -> {
+                    calendar.set(yearSelected, monthOfYear, dayOfMonth);
+                    SimpleDateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy", Locale.getDefault());
+                    dateEditText.setText(dateFormat.format(calendar.getTime()));
+                },
+                year, month, day);
+        datePickerDialog.show();
+    }
 
     private void setUpSpinner(Spinner spinner, int arrayResourceId) {
 

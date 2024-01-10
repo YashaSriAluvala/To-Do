@@ -58,6 +58,7 @@
         android:textColor="@color/black"
         android:background="@drawable/custom_edittetext"
         android:padding="15dp"
+        android:focusable="false"
         />
 
 
