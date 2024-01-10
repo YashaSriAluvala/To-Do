@@ -12,17 +12,15 @@ Follow these instructions to set up and run the To-Do List Android App using And
 ## Description
 
 implementation "androidx.recyclerview:recyclerview-selection:1.1.0"
-    // RecyclerView Selection library for handling item selection in RecyclerView.
+ 
+    
+RecyclerView Selection library for handling item selection in RecyclerView.
 
 implementation "androidx.room:room-runtime:2.6.1"
 annotationProcessor "androidx.room:room-compiler:2.6.1"
-    // Android Room library for local database persistence.
 
-implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.2"
-    // Kotlin Coroutines for asynchronous programming in Android.
-
-implementation "androidx.appcompat:appcompat:1.3.0"
-    // AndroidX AppCompat library for providing backward-compatible UI components.
+ 
+ Android Room library for local database persistence.
 
 
 ## Prerequisites
