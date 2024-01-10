@@ -77,7 +77,7 @@ https://github.com/YashaSriAluvala/To-Do/assets/117937166/78884337-0106-497a-80e
 
 ## Fisrt page
 
-![1](https://github.com/YashaSriAluvala/To-Do/assets/117937166/d56d8ce9-3c80-4483-b1a4-57a03584a7a5)
+![1 (1)](https://github.com/YashaSriAluvala/To-Do/assets/117937166/ac0b06a3-f467-49c9-b609-e534f4647857)
 
 ## Tasks page-Saved tasks will be displayed in tasks page
 
