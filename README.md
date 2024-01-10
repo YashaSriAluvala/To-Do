@@ -107,7 +107,7 @@ https://github.com/YashaSriAluvala/To-Do/assets/117937166/78884337-0106-497a-80e
 
 ## Spinner to select the category
 
-![8](https://github.com/YashaSriAluvala/To-Do/assets/117937166/aeae4b80-5a72-4917-b9ac-2ca4031f623c)
+![8 (1)](https://github.com/YashaSriAluvala/To-Do/assets/117937166/21ee9eb6-0027-4216-87b8-bec4eee8c119)
 
 ## The tasks saved will be viewed on the tasks page
 
