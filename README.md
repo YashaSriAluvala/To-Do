@@ -99,7 +99,7 @@ https://github.com/YashaSriAluvala/To-Do/assets/117937166/78884337-0106-497a-80e
 
 ## Spinner to set the status
 
-![6](https://github.com/YashaSriAluvala/To-Do/assets/117937166/c1e02c7b-44af-4a15-8629-866cc0705b04)
+![6 (1)](https://github.com/YashaSriAluvala/To-Do/assets/117937166/4c55deae-9fbf-4f63-a402-c13814c46dbc)
 
 ## Datepicker to set the deadline
 
