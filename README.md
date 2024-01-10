@@ -31,14 +31,24 @@ Android device or emulator.
 ## Installation
 
 1.Clone the repository: git clone https://github.com/your-username/todo-list-android.git
+
+
 2.Open Android Studio.
+
+
 3.Click on "Open an existing Android Studio project."
+
+
 4.Navigate to the cloned repository and select the project folder.
 
 ## Usage
 
 1.Connect your Android device or start an emulator.
+
+
 2.Click on the "Run" button in Android Studio to build and install the app.
+
+
 3.Open the app on your device/emulator to start managing your tasks.
 
 
