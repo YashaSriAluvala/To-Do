@@ -24,7 +24,7 @@
         android:layout_gravity="center_horizontal"
         android:textColor="#E15B89"
         android:layout_marginTop="10dp"
-        android:textSize="50sp"
+        android:textSize="40sp"
         android:letterSpacing="0.3"
         android:textStyle="italic"/>
 </LinearLayout>
