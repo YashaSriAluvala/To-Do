@@ -16,14 +16,6 @@ Follow these instructions to set up and run the To-Do List Android App using And
     
 RecyclerView Selection library for handling item selection in RecyclerView.
 
-### ' implementation "androidx.room:room-runtime:2.6.1" '
-
-
-### ' annotationProcessor "androidx.room:room-compiler:2.6.1" 
-
- 
- Android Room library for local database persistence.
-
 
 ## Prerequisites
 
