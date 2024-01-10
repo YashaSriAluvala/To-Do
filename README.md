@@ -113,6 +113,6 @@ https://github.com/YashaSriAluvala/To-Do/assets/117937166/78884337-0106-497a-80e
 
 ## Edit task page to edit or delete the task
 
-![10](https://github.com/YashaSriAluvala/To-Do/assets/117937166/469d58c5-68d4-4656-8c6c-235e21761deb)
+![10 (1)](https://github.com/YashaSriAluvala/To-Do/assets/117937166/f7b67dac-b62c-484b-b3cc-39e4e274096a)
 
 
