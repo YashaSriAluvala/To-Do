@@ -86,7 +86,8 @@ https://github.com/YashaSriAluvala/To-Do/assets/117937166/78884337-0106-497a-80e
 
 ## Spinner to categorize the tasks(when user selects a particular category only that category elements are viewed)
 
-![3](https://github.com/YashaSriAluvala/To-Do/assets/117937166/68bc9bcc-443b-40c3-967f-5648eec28e59)
+
+![3 (1)](https://github.com/YashaSriAluvala/To-Do/assets/117937166/6452ad5c-dde5-4fa3-839e-e42d90168101)
 
 ## Create task:The user can add the tasks by filling all the fields
 
