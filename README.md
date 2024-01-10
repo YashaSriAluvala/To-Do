@@ -81,7 +81,8 @@ https://github.com/YashaSriAluvala/To-Do/assets/117937166/78884337-0106-497a-80e
 
 ## Tasks page-Saved tasks will be displayed in tasks page
 
-![2](https://github.com/YashaSriAluvala/To-Do/assets/117937166/6becb20c-dbdb-4d32-8f5d-2ee3a685fc55)
+
+![2 (1)](https://github.com/YashaSriAluvala/To-Do/assets/117937166/8c33dd69-a0fb-4786-8298-836de22dfa80)
 
 ## Spinner to categorize the tasks(when user selects a particular category only that category elements are viewed)
 
