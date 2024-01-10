@@ -17,6 +17,8 @@ Follow these instructions to set up and run the To-Do List Android App using And
 RecyclerView Selection library for handling item selection in RecyclerView.
 
 ' implementation "androidx.room:room-runtime:2.6.1" '
+
+
 ' annotationProcessor "androidx.room:room-compiler:2.6.1" 
 
  
@@ -26,6 +28,8 @@ RecyclerView Selection library for handling item selection in RecyclerView.
 ## Prerequisites
 
 Android Studio installed on your machine.
+
+
 Android device or emulator.
 
 ## Installation
@@ -47,8 +51,24 @@ Android device or emulator.
 
 
 
+
+2.Click on the "Run" button in Android Studio to build and install the app.
+
+
+3.Open the app on your device/emulator to start managing your tasks.
+
+
+
+## SCREENSHOTS
+
+-Fisrt page
+
 ![1](https://github.com/YashaSriAluvala/To-Do/assets/117937166/d56d8ce9-3c80-4483-b1a4-57a03584a7a5)
+
+-Tasks page-Saved tasks will be displayed in tasks page
 ![2](https://github.com/YashaSriAluvala/To-Do/assets/117937166/6becb20c-dbdb-4d32-8f5d-2ee3a685fc55)
+
+-Create Task page-The user can add task in this page by filling all the required fields
 ![3](https://github.com/YashaSriAluvala/To-Do/assets/117937166/68bc9bcc-443b-40c3-967f-5648eec28e59)
 ![4](https://github.com/YashaSriAluvala/To-Do/assets/117937166/c5fbf96c-03f7-4219-aa03-ea11ac840512)
 ![5](https://github.com/YashaSriAluvala/To-Do/assets/117937166/01d4d54f-c7e1-41a8-be9c-fc09c90c320b)
@@ -57,11 +77,5 @@ Android device or emulator.
 ![8](https://github.com/YashaSriAluvala/To-Do/assets/117937166/aeae4b80-5a72-4917-b9ac-2ca4031f623c)
 ![9](https://github.com/YashaSriAluvala/To-Do/assets/117937166/3f731eae-c724-4f37-a39e-8c546de1f415)
 ![10](https://github.com/YashaSriAluvala/To-Do/assets/117937166/469d58c5-68d4-4656-8c6c-235e21761deb)
-
-
-2.Click on the "Run" button in Android Studio to build and install the app.
-
-
-3.Open the app on your device/emulator to start managing your tasks.
 
 
