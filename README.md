@@ -57,6 +57,16 @@ Android device or emulator.
 
 3.Open the app on your device/emulator to start managing your tasks.
 
+## Working
+
+The To-Do List application allows users to add tasks, which are then displayed on the tasks page. The Create Task page features spinners to set the priority, status, and category. Additionally, the Datepicker feature presents a calendar to set the task deadline. The Create Task page enforces the requirement of filling in all fields (the Description field is optional), and it prevents the addition of tasks with duplicate names.
+
+When a task is saved, it is immediately visible on the tasks page. The tasks on the tasks page are differentiated using different text colors for new, completed, and in-progress statuses. Clicking on a task redirects the user to the Edit Task page, where they can modify the task details, update it, or delete it. The changes are then reflected on the tasks page.
+
+Furthermore, there is a spinner at the top right corner that, when clicked, displays different categories. Clicking on a specific category filters and displays only the tasks belonging to that category.
+
+This comprehensive functionality enhances the user experience, providing a robust and organized task management system.
+
 
 
 ### SCREENSHOTS
